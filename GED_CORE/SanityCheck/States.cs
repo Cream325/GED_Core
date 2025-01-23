@@ -2,6 +2,9 @@ namespace GED.Core.SanityCheck
 {
     using errint_t = byte;
 
+    /// <summary>
+    /// 에러 코드 클래스
+    /// </summary>
     public static class States
     {
 
